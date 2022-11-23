@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aazath" alt="aazath" /></a> </p>
 <img align="right" src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" alt="coding"  width="200" />
-- 📫 How to reach me **asaazath@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
