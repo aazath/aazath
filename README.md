@@ -1,3 +1,6 @@
+<p align="center" width="100">
+<img src="https://github.com/aazath/aazath/blob/6875427191843bc6bc3b50dfcf71981117e24c64/aazath_logo.png"/>
+</p>
 <h1 align="center">Hi 👋, I'm Aazath Abdul Salam</h1>
 <h3 align="center">Software Developer Specialising in Enterprise Java</h3>
 
