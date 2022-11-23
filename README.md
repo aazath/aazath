@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aazath Abdul Salam</h1>
 <h3 align="center">Software Developer Specialising in Enterprise Java</h3>
-<img align="right" src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" alt="coding"  width="250" />
+<img align="right" src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" alt="coding"  width="150" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazath&label=Profile%20views&color=0e75b6&style=flat" alt="aazath" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aazath" alt="aazath" /></a> </p>
