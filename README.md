@@ -2,7 +2,7 @@
 <img src="https://github.com/aazath/aazath/blob/6875427191843bc6bc3b50dfcf71981117e24c64/aazath_logo.png"/>
 </p>
 <h1 align="center">Hi 👋, I'm Aazath Abdul Salam</h1>
-<h3 align="center">Software Developer Specialising in Enterprise Java</h3>
+<h3 align="center">Software Developer Specialising in Spring Boot and Microservices</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazath&label=Profile%20views&color=0e75b6&style=flat" alt="aazath" /> </p>
 
